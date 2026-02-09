@@ -9,7 +9,7 @@ Relationship App: Love Story helps couples slow down and stay emotionally connec
 ## 🌱 What is Relationship App: Love Story?
 
 Relationship App: Love Story is a relationship-focused journaling and reflection app.  
-It’s not about chats or reminders — it’s about **understanding each other better over time**.
+It’s not about chats or reminders. It’s about **understanding each other better over time**.
 
 Everything in the app is shared **only** between you and your partner.
 
@@ -19,13 +19,13 @@ Everything in the app is shared **only** between you and your partner.
 
 ### 💖 Daily Mood Check-ins
 - Share how you feel each day using moods and short notes  
-- See your partner’s day in real-time once they share  
+- See your partner’s day in real time once they share  
 - Build emotional awareness without pressure
 
 ### 📅 Shared Calendar
 - View past days together
 - Reflect on patterns in your relationship
-- No endless scrolling — just meaningful moments
+- No endless scrolling. Just meaningful moments
 
 ### 🕰 Time Capsules
 - Write messages for the future
@@ -40,7 +40,7 @@ Everything in the app is shared **only** between you and your partner.
 ### 📊 Relationship Insights
 - Weekly and monthly reflections
 - Shared days, streaks, and emotional patterns
-- Soft, non-judgmental insights — not “scores”
+- Soft, non-judgmental insights. Not “scores”
 
 ---
 
@@ -107,6 +107,5 @@ Feature requests and ideas are always welcome.
 
 ## ❤️ Built for couples, not algorithms
 
-If you’re looking for a calmer, more intentional way to connect —  
+If you’re looking for a calmer, more intentional way to connect,  
 this app was made for you.
-
