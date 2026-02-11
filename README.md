@@ -33,27 +33,27 @@ Everything in the app is shared **only** between you and your partner.
 
 ## ✨ Core Features
 
-### 💖 Daily Mood Check-ins (Free)
+### 💖 Daily Mood Check-ins
 - Share how you feel each day using moods and short notes  
 - See your partner’s day in real time once they share  
 - Build emotional awareness without pressure  
 
-### 📅 Shared Calendar (Free)
+### 📅 Shared Calendar
 - View past days together  
 - Reflect on patterns in your relationship  
 - No endless scrolling. Just meaningful moments  
 
-### 🕰 Time Capsules (Pro)
+### 🕰 Time Capsules
 - Write messages for the future  
 - Open them together after 1 month, 6 months, or a year  
 - A quiet way to grow memories over time  
 
-### 👥 Partner Connection (Free)
+### 👥 Partner Connection
 - Connect securely using a unique partner code  
 - All content is private and synced in real time  
 - No social feeds, no strangers, no noise  
 
-### 📊 Relationship Insights (Pro)
+### 📊 Relationship Insights
 - Weekly and monthly reflections  
 - Shared days, streaks, and emotional patterns  
 - Soft, non-judgmental insights. Not “scores”  
@@ -78,14 +78,15 @@ Read our Privacy Policy here:
 
 ## 💎 Subscription Information
 
-Relationship App offers an optional **Pro subscription**.
+Relationship App needs a **Pro subscription**.
 
-### Free Version Includes:
+
+
+
+### Pro Subscription Unlocks:
 - Daily mood check-ins  
 - Partner connection  
 - Shared calendar history  
-
-### Pro Subscription Unlocks:
 - Time Capsules  
 - Advanced relationship insights  
 - Extended history access  
