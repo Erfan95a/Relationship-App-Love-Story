@@ -56,14 +56,11 @@ This app is built for trust.
 
 ---
 
-## 💎 Free & Pro
-
-**Free**
+## 💎 Pro functions
+**Pro**
 - Daily check-ins
 - Partner connection
 - Calendar history
-
-**Pro**
 - Time Capsules
 - Advanced insights
 - Future relationship features
