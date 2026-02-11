@@ -6,6 +6,22 @@ Relationship App: Love Story helps couples slow down and stay emotionally connec
 
 ---
 
+# 📞 Support
+
+If you need help, have questions, or want to report a problem, please contact us:
+
+📧 **e.ahmadi95@protonmail.com**
+
+We typically respond within 24–48 hours.
+
+If you are experiencing a technical issue, please include:
+- Your device model  
+- iOS version  
+- App version  
+- A short description of the issue  
+
+---
+
 ## 🌱 What is Relationship App: Love Story?
 
 Relationship App: Love Story is a relationship-focused journaling and reflection app.  
@@ -17,63 +33,76 @@ Everything in the app is shared **only** between you and your partner.
 
 ## ✨ Core Features
 
-### 💖 Daily Mood Check-ins
+### 💖 Daily Mood Check-ins (Free)
 - Share how you feel each day using moods and short notes  
 - See your partner’s day in real time once they share  
-- Build emotional awareness without pressure
+- Build emotional awareness without pressure  
 
-### 📅 Shared Calendar
-- View past days together
-- Reflect on patterns in your relationship
-- No endless scrolling. Just meaningful moments
+### 📅 Shared Calendar (Free)
+- View past days together  
+- Reflect on patterns in your relationship  
+- No endless scrolling. Just meaningful moments  
 
-### 🕰 Time Capsules
-- Write messages for the future
-- Open them together after 1 month, 6 months, or a year
-- A quiet way to grow memories over time
+### 🕰 Time Capsules (Pro)
+- Write messages for the future  
+- Open them together after 1 month, 6 months, or a year  
+- A quiet way to grow memories over time  
 
-### 👥 Partner Connection
-- Connect securely using a unique partner code
-- All content is private and synced in real time
-- No social feeds, no strangers, no noise
+### 👥 Partner Connection (Free)
+- Connect securely using a unique partner code  
+- All content is private and synced in real time  
+- No social feeds, no strangers, no noise  
 
-### 📊 Relationship Insights
-- Weekly and monthly reflections
-- Shared days, streaks, and emotional patterns
-- Soft, non-judgmental insights. Not “scores”
+### 📊 Relationship Insights (Pro)
+- Weekly and monthly reflections  
+- Shared days, streaks, and emotional patterns  
+- Soft, non-judgmental insights. Not “scores”  
 
 ---
 
 ## 🔒 Privacy First
 
-- End-to-end private between you and your partner
-- No ads
-- No selling data
-- No public profiles
-- You own your data
+- Private between you and your partner  
+- No ads  
+- No selling data  
+- No public profiles  
+- You control your data  
 
 This app is built for trust.
 
+Read our Privacy Policy here:  
+🔗 https://www.freeprivacypolicy.com/live/32d9ac94-3175-40ba-9b23-2456a88040db
+
+
 ---
 
-## 💎 Pro functions
-**Pro**
-- Daily check-ins
-- Partner connection
-- Calendar history
-- Time Capsules
-- Advanced insights
-- Future relationship features
+## 💎 Subscription Information
 
-Subscriptions are optional and handled securely via Apple.
+Relationship App offers an optional **Pro subscription**.
+
+### Free Version Includes:
+- Daily mood check-ins  
+- Partner connection  
+- Shared calendar history  
+
+### Pro Subscription Unlocks:
+- Time Capsules  
+- Advanced relationship insights  
+- Extended history access  
+- Future premium features  
+
+Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.  
+You can manage or cancel your subscription anytime in your Apple ID Settings.
+
+All payments are securely handled by Apple.
 
 ---
 
 ## 📱 Platforms
 
-- iOS (TestFlight & App Store)
-- Built with Expo + React Native
-- Backend powered by Supabase
+- iOS (TestFlight & App Store)  
+- Built with Expo + React Native  
+- Backend powered by Supabase  
 
 ---
 
@@ -83,10 +112,10 @@ Relationships don’t need more notifications.
 They need more understanding.
 
 Relationship App: Love Story is designed to:
-- Reduce pressure
-- Encourage honesty
-- Create space for reflection
-- Grow connection naturally
+- Reduce pressure  
+- Encourage honesty  
+- Create space for reflection  
+- Grow connection naturally  
 
 No streak punishment.  
 No social comparison.  
