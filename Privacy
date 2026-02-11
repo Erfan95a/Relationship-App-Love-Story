@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Relationship Love Story</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #FFF5F7 0%, #FFE8EC 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 40px rgba(233, 30, 99, 0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #E91E63 0%, #F06292 100%);
+            color: white;
+            padding: 50px 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            font-weight: 900;
+        }
+
+        .header p {
+            font-size: 1em;
+            opacity: 0.9;
+        }
+
+        .content {
+            padding: 50px 40px;
+        }
+
+        .back-link {
+            display: inline-block;
+            color: #E91E63;
+            text-decoration: none;
+            margin-bottom: 30px;
+            font-weight: 600;
+            font-size: 1.1em;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        h2 {
+            color: #E91E63;
+            font-size: 1.8em;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            font-weight: 800;
+        }
+
+        h3 {
+            color: #333;
+            font-size: 1.3em;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-weight: 700;
+        }
+
+        p {
+            margin-bottom: 15px;
+            font-size: 1.05em;
+            line-height: 1.8;
+            color: #555;
+        }
+
+        ul {
+            margin-left: 25px;
+            margin-bottom: 20px;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+            font-size: 1.05em;
+            line-height: 1.7;
+            color: #555;
+        }
+
+        .highlight-box {
+            background: #FFF5F7;
+            border-left: 4px solid #E91E63;
+            padding: 20px;
+            margin: 25px 0;
+            border-radius: 8px;
+        }
+
+        .footer {
+            background: #F9F9F9;
+            padding: 30px 40px;
+            text-align: center;
+            color: #666;
+            border-top: 1px solid #F0F0F0;
+        }
+
+        @media (max-width: 600px) {
+            .header {
+                padding: 40px 20px;
+            }
+
+            .header h1 {
+                font-size: 1.6em;
+            }
+
+            .content {
+                padding: 30px 20px;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Privacy Policy</h1>
+            <p>Last Updated: February 11, 2025</p>
+        </div>
+
+        <div class="content">
+            <a href="index.html" class="back-link">← Back to Support</a>
+
+            <div class="highlight-box">
+                <strong>Your Privacy Matters</strong><br>
+                Relationship Love Story is committed to protecting your privacy. This policy explains how we collect, use, and protect your personal information.
+            </div>
+
+            <h2>Information We Collect</h2>
+
+            <h3>Account Information</h3>
+            <p>When you sign in with Apple, we collect:</p>
+            <ul>
+                <li>Your name (if you choose to share it)</li>
+                <li>Email address (or Apple's private relay email)</li>
+                <li>Unique Apple user identifier</li>
+            </ul>
+
+            <h3>Profile Information</h3>
+            <p>Information you provide during onboarding:</p>
+            <ul>
+                <li>Your name (optional)</li>
+                <li>Birthday (optional - used to remind your partner)</li>
+                <li>Partner connection code</li>
+            </ul>
+
+            <h3>App Usage Data</h3>
+            <p>When you use the app, we collect:</p>
+            <ul>
+                <li>Daily mood entries</li>
+                <li>Calendar events you create</li>
+                <li>Time capsule messages</li>
+                <li>Milestones you track</li>
+                <li>App preferences and settings</li>
+            </ul>
+
+            <h2>How We Use Your Information</h2>
+
+            <p>We use your information to:</p>
+            <ul>
+                <li><strong>Provide the Service:</strong> Enable core features like mood tracking, shared calendars, and time capsules</li>
+                <li><strong>Partner Connection:</strong> Allow you to connect and share data with your partner</li>
+                <li><strong>Personalization:</strong> Remember your preferences and settings</li>
+                <li><strong>Support:</strong> Respond to your questions and support requests</li>
+                <li><strong>Improve the App:</strong> Analyze usage patterns to enhance features</li>
+            </ul>
+
+            <h2>Data Sharing</h2>
+
+            <div class="highlight-box">
+                <strong>We NEVER sell your personal information.</strong>
+            </div>
+
+            <p>Your data is shared only in these limited cases:</p>
+
+            <h3>With Your Partner</h3>
+            <p>When you connect with a partner, you both can access:</p>
+            <ul>
+                <li>Each other's daily moods</li>
+                <li>Shared calendar events</li>
+                <li>Time capsules created together</li>
+                <li>Shared milestones</li>
+            </ul>
+
+            <h3>Third-Party Services</h3>
+            <p>We use trusted third-party services to operate the app:</p>
+            <ul>
+                <li><strong>Supabase:</strong> Secure database hosting (data encrypted at rest)</li>
+                <li><strong>RevenueCat:</strong> Subscription management (does not access your relationship data)</li>
+                <li><strong>Apple Sign In:</strong> Authentication (privacy-focused login)</li>
+            </ul>
+
+            <h3>Legal Requirements</h3>
+            <p>We may disclose information if required by law, such as responding to a court order or legal process.</p>
+
+            <h2>Data Security</h2>
+
+            <p>We take security seriously:</p>
+            <ul>
+                <li><strong>Encryption:</strong> All data is encrypted in transit (HTTPS) and at rest</li>
+                <li><strong>Access Control:</strong> Only you and your connected partner can access your shared data</li>
+                <li><strong>Secure Authentication:</strong> We use Apple Sign In for secure, privacy-focused login</li>
+                <li><strong>No Password Storage:</strong> We never store passwords; authentication is handled by Apple</li>
+            </ul>
+
+            <h2>Your Rights & Choices</h2>
+
+            <p>You have control over your data:</p>
+
+            <h3>Access Your Data</h3>
+            <p>View all your data within the app at any time.</p>
+
+            <h3>Delete Your Data</h3>
+            <p>You can delete your account and all associated data by contacting us at <a href="mailto:support@relationshiplovestory.com" style="color: #E91E63;">support@relationshiplovestory.com</a></p>
+
+            <h3>Disconnect from Partner</h3>
+            <p>You can disconnect from your partner in Settings. This stops sharing new data, but previously shared data remains accessible to both parties.</p>
+
+            <h3>Opt-Out of Analytics</h3>
+            <p>You can disable analytics in iPhone Settings → Privacy → Analytics & Improvements.</p>
+
+            <h2>Children's Privacy</h2>
+
+            <p>Relationship Love Story is intended for users age 18 and older. We do not knowingly collect information from children under 18. If we discover that a child under 18 has provided us with personal information, we will delete it immediately.</p>
+
+            <h2>Data Retention</h2>
+
+            <p>We retain your data:</p>
+            <ul>
+                <li><strong>Active Accounts:</strong> As long as your account is active</li>
+                <li><strong>Deleted Accounts:</strong> Data is permanently deleted within 30 days of account deletion</li>
+                <li><strong>Subscription Data:</strong> Retained for 7 years for tax/accounting purposes (as required by law)</li>
+            </ul>
+
+            <h2>International Users</h2>
+
+            <p>Your data may be stored and processed in servers located in different countries. By using the app, you consent to the transfer of your information to these locations.</p>
+
+            <h2>Changes to This Policy</h2>
+
+            <p>We may update this Privacy Policy from time to time. We will notify you of significant changes through the app or by email. The "Last Updated" date at the top indicates the most recent revision.</p>
+
+            <h2>Contact Us</h2>
+
+            <p>If you have questions about this Privacy Policy, please contact us:</p>
+            <div class="highlight-box">
+                <strong>Email:</strong> <a href="mailto:support@relationshiplovestory.com" style="color: #E91E63;">support@relationshiplovestory.com</a>
+            </div>
+
+            <p style="margin-top: 40px; padding-top: 20px; border-top: 2px solid #F0F0F0; color: #999; font-size: 0.95em;">
+                By using Relationship Love Story, you agree to this Privacy Policy.
+            </p>
+        </div>
+
+        <div class="footer">
+            <p><strong>Relationship Love Story</strong></p>
+            <p>© 2025 All rights reserved</p>
+        </div>
+    </div>
+</body>
+</html>
